@@ -1,17 +1,18 @@
 # random_scripts
->random stuff for safekeeping
+`random stuff for safekeeping`
+
 
 
 __BasicLogin.java__<br>
 > imitates basic login in terminal
 
-<br>	
+	
 __FileListing.java__<br>
 > imitates primitive ls utility
 
 <br>
 
-__pyfun.py__
+__pyfun.py__<br>
 >contains collection of various python funtions, such as:
 * lin_equations ( solves linear eq )
 * narcissistic_numbers ( finds Armstrong numbers )
